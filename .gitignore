@@ -1,5 +1,6 @@
 # ignore binary files
 *.bin
+*.class
 
 # ignore swap files
 *.swp
