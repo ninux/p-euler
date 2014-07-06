@@ -1,6 +1,9 @@
-# ignore binary files
+# ignore binary files and other stuff
 *.bin
 *.class
+*.RData
+*.Rout
+
 
 # ignore swap files
 *.swp
